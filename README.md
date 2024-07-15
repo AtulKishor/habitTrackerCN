@@ -36,8 +36,9 @@ A web application to add new habits, track your habits and monitor your weekly p
 To start the application, run:
     ```sh
     npm start
-        ```
-This will launch the application in development mode. Open http://localhost:3000 to view it in your browser.
+    ```
+This will launch the application in development mode.   
+Open http://localhost:3000 to view it in your browser.
 
 ## Features
  - Add multiple habits to track the status of each habit daily. A user can toggle between the three statuses of a habit:
@@ -106,22 +107,22 @@ The application uses Redux for state management. The state includes:
 
 ## Dependencies
 
-@fortawesome/fontawesome-svg-core
-@fortawesome/free-brands-svg-icons
-@fortawesome/free-regular-svg-icons
-@fortawesome/free-solid-svg-icons
-@fortawesome/react-fontawesome
-@reduxjs/toolkit
-react
-react-dom
-react-redux
-react-router-dom
-react-scripts
-react-toastify
-serve
+@fortawesome/fontawesome-svg-core   
+@fortawesome/free-brands-svg-icons   
+@fortawesome/free-regular-svg-icons   
+@fortawesome/free-solid-svg-icons   
+@fortawesome/react-fontawesome   
+@reduxjs/toolkit   
+react   
+react-dom   
+react-redux   
+react-router-dom   
+react-scripts   
+react-toastify   
+serve   
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## Hosted Application
-You can view the hosted application [here](https://habit-tracker-cn.onrender.com/).
+You can view the hosted application [here](https://habit-tracker-cn-gvag.onrender.com/).
